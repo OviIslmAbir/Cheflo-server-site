@@ -2,49 +2,49 @@
     { 
         "id": 1,    
         "name": "Anna Johnson",    
-        "chefImg": "https://example.com/chef1.jpg",      
+        "chefImg": "https://st3.depositphotos.com/1345889/16193/i/600/depositphotos_161935452-stock-photo-the-beautiful-chef.jpg",      
         "experience": "10 years",      
         "numRecipes": 200,        
-        "likes": 10000 
+        "likes": { "facebook": 20000, "instagram": 25000, "twitter": 10000}
     },  
     {        
         "id": 2,    
         "name": "Mario Rossi",     
-        "chefImg": "https://example.com/chef2.jpg",       
+        "chefImg": "https://purepng.com/public/uploads/large/purepng.com-female-chefcheftrained-professional-cookfood-preparationkitchenchefsexperiencedwomenfemale-1421526720006effzx.png",       
         "experience": "15 years",      
         "numRecipes": 300,   
-        "likes": 20000    
+        "likes": { "facebook": 25000, "instagram": 15000, "twitter": 17000}    
     },  
     {       
         "id": 3,   
-        "name": "Chloe Nguyen",       
-        "chefImg": "https://example.com/chef3.jpg",      
+        "name": "Chloe Decker",        
+        "chefImg": "https://thumbs.dreamstime.com/b/female-chef-19271464.jpg",      
         "experience": "8 years",        
         "numRecipes": 150,       
-        "likes": 8000  
+        "likes": { "facebook": 8000, "instagram": 27000, "twitter": 10000}
     },    
     {  
         "id": 4,   
-        "name": "John Smith",     
-        "chefImg": "https://example.com/chef4.jpg",      
+        "name": "Emma Stone",     
+        "chefImg": "https://i.pinimg.com/originals/d3/c4/2c/d3c42c4d91c6d24b89bf8ab2175e9f75.png",      
         "experience": "20 years",    
         "numRecipes": 400,    
-        "likes": 30000   
+        "likes": { "facebook": 30000, "instagram": 5000, "twitter": 4000}
     },  
     {   
         "id": 5,    
         "name": "Sophie Lee",    
-        "chefImg": "https://example.com/chef5.jpg",       
+        "chefImg": "https://freedesignfile.com/upload/2017/09/Beautiful-female-chef-holding-a-whisk-Stock-Photo-02.jpg",       
         "experience": "5 years",     
         "numRecipes": 100,     
-        "likes": 5000  
+        "likes": { "facebook": 5000, "instagram": 25000, "twitter": 3000}
     },    
     {   
         "id": 6,     
         "name": "David Kim",    
-        "chefImg": "https://example.com/chef6.jpg",     
+        "chefImg": "https://img.freepik.com/premium-photo/positive-professional-happy-man-chef-showing-tasty-ok-sign-isolated-white-background_361425-6568.jpg?w=2000",     
         "experience": "12 years",     
         "numRecipes": 250,    
-        "likes": 15000 
+        "likes": { "facebook": 18000, "instagram": 25000, "twitter": 15000}
     }
 ]
