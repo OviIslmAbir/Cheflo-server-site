@@ -1,13 +1,15 @@
 [   
     { 
         "id": 1,    
-        "name": "Anna Johnson",    
+        "name": "Anna Johnson", 
+        "description": "Anna Johnson is a American chef, restaurateur, television personality, and author. He has owned and operated a number of restaurants, and is known for his fiery personality and sharp tongue on his television shows, such as 'Hell's Kitchen' and 'MasterChef'.",   
         "chefImg": "https://st3.depositphotos.com/1345889/16193/i/600/depositphotos_161935452-stock-photo-the-beautiful-chef.jpg",      
         "experience": "10 years",      
         "numRecipes": 200,        
         "likes": { "facebook": 20000, "instagram": 25000, "twitter": 10000},
         "recipes": [
             {
+                "recipeId":1,
                 "name": "Spaghetti Bolognese",
                 "img": "https://thumbs.dreamstime.com/b/spaghetti-bolognese-white-14995278.jpg",
                 "ingredients": [
@@ -28,6 +30,7 @@
               },
               
               {
+                "recipeId":2,
                 "name": "Chicken Stir-Fry",
                 "img": "https://media.istockphoto.com/id/1188850044/photo/stir-fry-with-chicken-mushrooms-broccoli-and-peppers-chinese-food.jpg?s=612x612&w=0&k=20&c=3CyKm21PIH0Ee4vVm08UPgbBuFgYte3xgRE6lqZSJaU=",
                 "ingredients": [
@@ -48,6 +51,7 @@
               },
               
               {
+                "recipeId":3,
                 "name": "Homemade Pizza",
                 "img":"https://media.istockphoto.com/id/184969517/photo/marinara-pizza.jpg?s=612x612&w=0&k=20&c=5l07HQR40k9zYZ6Sc05Er58fvd_QHIIu3INiWApn6GY=",
                 "ingredients": [
@@ -72,12 +76,14 @@
     {        
         "id": 2,    
         "name": "Mario Rossi",     
+        "description": "Mario Rossi, also known as the Barefoot Contessa, is an American chef, author, and television personality. She is known for her simple yet elegant approach to cooking, and her popular cooking show, 'Barefoot Contessa', which has been on the air since 2002.",
         "chefImg": "https://purepng.com/public/uploads/large/purepng.com-female-chefcheftrained-professional-cookfood-preparationkitchenchefsexperiencedwomenfemale-1421526720006effzx.png",       
         "experience": "15 years",      
         "numRecipes": 300,   
         "likes": { "facebook": 25000, "instagram": 15000, "twitter": 17000},
         "recipes":  [
             {
+                "recipeId":1,
                 "name": "Beef Stroganoff",
                 "img": "https://media.istockphoto.com/id/523456979/photo/homemade-hearty-beef-stroganoff.jpg?s=612x612&w=0&k=20&c=FsTHhQSdD6bNfuiP5u5wXWy6_zmOP4UPgXR7RImOXyU=",
                 "ingredients": [
@@ -98,6 +104,7 @@
               },
               
               {
+                "recipeId":2,
                 "name": "Taco Salad",
                 "img":"https://media.istockphoto.com/id/508341204/photo/taco-salad-in-a-tortilla-bowl.jpg?b=1&s=612x612&w=0&k=20&c=nCajGC7RcjRY6p7uU1-8oSpw-VDpkpxxy6Rt5gtD7p4=",
                 "ingredients": [
@@ -118,6 +125,7 @@
               },
               
               {
+                "recipeId":3,
                 "name": "Baked Salmon",
                 "img":"https://media.istockphoto.com/id/184315175/photo/fillet-of-salmon-with-asparagus.jpg?s=612x612&w=0&k=20&c=iG6r3AnCJvmU3oqZCoiV2RfgtkjsIlP7FBZPNFBU2eM=",
                 "ingredients": [
@@ -142,12 +150,14 @@
     {       
         "id": 3,   
         "name": "Chloe Decker",        
+        "description": "Chloe Decker was an American chef, author, and television personality. He was known for his love of food and travel, and his popular television shows, such as 'No Reservations' and 'Parts Unknown', in which he explored different cultures and cuisines around the world.",
         "chefImg": "https://thumbs.dreamstime.com/b/female-chef-19271464.jpg",      
         "experience": "8 years",        
         "numRecipes": 150,       
         "likes": { "facebook": 8000, "instagram": 27000, "twitter": 10000},
         "recipes":[
-            {
+            { 
+                "recipeId":1,
                 "name": "Pesto Pasta",
                 "img":"https://media.istockphoto.com/id/1045283212/photo/tasty-pasta-with-pesto-served-on-plate.jpg?s=612x612&w=0&k=20&c=eIQbBIM37oiPwmdbmWn11_W4nKlpEhz9ms2gYEBkBYs=",
                 "ingredients": [
@@ -168,6 +178,7 @@
               },
               
               {
+                "recipeId":2,
                 "name": "Chicken Fajitas",
                 "img":"https://media.istockphoto.com/id/1134749741/photo/fajitas-with-colored-pepper-and-onions.jpg?s=612x612&w=0&k=20&c=AiUyCoV1ETeEYF-NVxLzOKpLqOhj22jDZN3Phv1PZWk=",
                 "ingredients": [
@@ -188,6 +199,7 @@
               },
               
               {
+                "recipeId":3,
                 "name": "Spaghetti and Meatballs",
                 "img":"https://media.istockphoto.com/id/155429377/photo/spaghetti-and-meatballs.jpg?s=612x612&w=0&k=20&c=iCaG_HtWKAr7517m7rhzpnXvE2VS0c_K09bFk3R4o_M=",
                 "ingredients": [
@@ -214,12 +226,14 @@
     {  
         "id": 4,   
         "name": "Emma Stone",     
+        "description": "Emma Stone is an American chef, author, and founder of Milk Bar, a chain of dessert and bakery shops. She is known for her creative and playful approach to baking, and has been recognized as one of the most innovative pastry chefs in the world.",
         "chefImg": "https://i.pinimg.com/originals/d3/c4/2c/d3c42c4d91c6d24b89bf8ab2175e9f75.png",      
         "experience": "20 years",    
         "numRecipes": 400,    
         "likes": { "facebook": 30000, "instagram": 5000, "twitter": 4000},
         "recipes":  [
             {
+                "recipeId":1,
                 "name": "Beef Stroganoff",
                 "img": "https://media.istockphoto.com/id/523456979/photo/homemade-hearty-beef-stroganoff.jpg?s=612x612&w=0&k=20&c=FsTHhQSdD6bNfuiP5u5wXWy6_zmOP4UPgXR7RImOXyU=",
                 "ingredients": [
@@ -240,6 +254,7 @@
               },
               
               {
+                "recipeId":2,
                 "name": "Taco Salad",
                 "img":"https://media.istockphoto.com/id/508341204/photo/taco-salad-in-a-tortilla-bowl.jpg?b=1&s=612x612&w=0&k=20&c=nCajGC7RcjRY6p7uU1-8oSpw-VDpkpxxy6Rt5gtD7p4=",
                 "ingredients": [
@@ -260,6 +275,7 @@
               },
               
               {
+                "recipeId":3,
                 "name": "Baked Salmon",
                 "img":"https://media.istockphoto.com/id/184315175/photo/fillet-of-salmon-with-asparagus.jpg?s=612x612&w=0&k=20&c=iG6r3AnCJvmU3oqZCoiV2RfgtkjsIlP7FBZPNFBU2eM=",
                 "ingredients": [
@@ -284,12 +300,14 @@
     {   
         "id": 5,    
         "name": "Sophie Lee",    
+        "description": "Sophie Lee is a American chef, restaurateur, and television personality. He is known for his passion for healthy and sustainable cooking, and his popular television shows, such as 'The Naked Chef' and 'Jamie Oliver's Food Revolution'. He has also written numerous cookbooks and opened several restaurants around the world.",
         "chefImg": "https://freedesignfile.com/upload/2017/09/Beautiful-female-chef-holding-a-whisk-Stock-Photo-02.jpg",       
         "experience": "5 years",     
         "numRecipes": 100,     
         "likes": { "facebook": 5000, "instagram": 25000, "twitter": 3000},
         "recipes": [
             {
+                "recipeId":1,
                 "name": "Spaghetti Bolognese",
                 "img": "https://thumbs.dreamstime.com/b/spaghetti-bolognese-white-14995278.jpg",
                 "ingredients": [
@@ -310,6 +328,7 @@
               },
               
               {
+                "recipeId":2,
                 "name": "Chicken Stir-Fry",
                 "img": "https://media.istockphoto.com/id/1188850044/photo/stir-fry-with-chicken-mushrooms-broccoli-and-peppers-chinese-food.jpg?s=612x612&w=0&k=20&c=3CyKm21PIH0Ee4vVm08UPgbBuFgYte3xgRE6lqZSJaU=",
                 "ingredients": [
@@ -330,6 +349,7 @@
               },
               
               {
+                "recipeId":3,
                 "name": "Homemade Pizza",
                 "img":"https://media.istockphoto.com/id/184969517/photo/marinara-pizza.jpg?s=612x612&w=0&k=20&c=5l07HQR40k9zYZ6Sc05Er58fvd_QHIIu3INiWApn6GY=",
                 "ingredients": [
@@ -354,12 +374,14 @@
     {   
         "id": 6,     
         "name": "David Kim",    
+        "description": "David Kim is an American chef, restaurateur, and food activist. She is known for her focus on local, organic, and sustainable ingredients, and her influential restaurant, Chez Panisse, which opened in Berkeley, California in 1971. She has been credited with pioneering the farm-to-table movement in the United States.",
         "chefImg": "https://img.freepik.com/premium-photo/positive-professional-happy-man-chef-showing-tasty-ok-sign-isolated-white-background_361425-6568.jpg?w=2000",     
         "experience": "12 years",     
         "numRecipes": 250,    
         "likes": { "facebook": 18000, "instagram": 25000, "twitter": 15000},
         "recipes":[
             {
+                "recipeId":1,
                 "name": "Pesto Pasta",
                 "img":"https://media.istockphoto.com/id/1045283212/photo/tasty-pasta-with-pesto-served-on-plate.jpg?s=612x612&w=0&k=20&c=eIQbBIM37oiPwmdbmWn11_W4nKlpEhz9ms2gYEBkBYs=",
                 "ingredients": [
@@ -380,6 +402,7 @@
               },
               
               {
+                "recipeId":2,
                 "name": "Chicken Fajitas",
                 "img":"https://media.istockphoto.com/id/1134749741/photo/fajitas-with-colored-pepper-and-onions.jpg?s=612x612&w=0&k=20&c=AiUyCoV1ETeEYF-NVxLzOKpLqOhj22jDZN3Phv1PZWk=",
                 "ingredients": [
@@ -400,6 +423,7 @@
               },
               
               {
+                "recipeId":3,
                 "name": "Spaghetti and Meatballs",
                 "img":"https://media.istockphoto.com/id/155429377/photo/spaghetti-and-meatballs.jpg?s=612x612&w=0&k=20&c=iCaG_HtWKAr7517m7rhzpnXvE2VS0c_K09bFk3R4o_M=",
                 "ingredients": [
