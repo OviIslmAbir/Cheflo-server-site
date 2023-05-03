@@ -5,7 +5,69 @@
         "chefImg": "https://st3.depositphotos.com/1345889/16193/i/600/depositphotos_161935452-stock-photo-the-beautiful-chef.jpg",      
         "experience": "10 years",      
         "numRecipes": 200,        
-        "likes": { "facebook": 20000, "instagram": 25000, "twitter": 10000}
+        "likes": { "facebook": 20000, "instagram": 25000, "twitter": 10000},
+        "recipes": [
+            {
+                "name": "Spaghetti Bolognese",
+                "img": "https://thumbs.dreamstime.com/b/spaghetti-bolognese-white-14995278.jpg",
+                "ingredients": [
+                  "1 lb ground beef",
+                  "1 onion, diced",
+                  "2 cloves garlic, minced",
+                  "1 can (28 oz) crushed tomatoes",
+                  "1 tsp dried oregano"
+                ],
+                "cooking_method": [
+                  "In a large skillet, brown the ground beef over medium-high heat.",
+                  "Add the onion and garlic and sauté for 3-4 minutes, until the onion is translucent.",
+                  "Add the crushed tomatoes, oregano, salt, and pepper and stir to combine.",
+                  "Reduce heat to low and simmer for 20-30 minutes, until the sauce has thickened.",
+                  "Serve over cooked spaghetti."
+                ],
+                "rating": 4.5
+              },
+              
+              {
+                "name": "Chicken Stir-Fry",
+                "img": "https://media.istockphoto.com/id/1188850044/photo/stir-fry-with-chicken-mushrooms-broccoli-and-peppers-chinese-food.jpg?s=612x612&w=0&k=20&c=3CyKm21PIH0Ee4vVm08UPgbBuFgYte3xgRE6lqZSJaU=",
+                "ingredients": [
+                  "1 lb boneless, skinless chicken breast, sliced",
+                  "1 red bell pepper, sliced",
+                  "1 yellow bell pepper, sliced",
+                  "1 onion, sliced",
+                  "1 cup broccoli florets"
+                ],
+                "cooking_method": [
+                  "In a wok or large skillet, heat oil over high heat.",
+                  "Add the chicken and stir-fry for 2-3 minutes, until browned.",
+                  "Add the peppers, onion, and broccoli and stir-fry for another 3-4 minutes, until the vegetables are tender-crisp.",
+                  "Add the soy sauce and stir to combine.",
+                  "Serve over cooked rice."
+                ],
+                "rating": 4.0
+              },
+              
+              {
+                "name": "Homemade Pizza",
+                "img":"https://media.istockphoto.com/id/184969517/photo/marinara-pizza.jpg?s=612x612&w=0&k=20&c=5l07HQR40k9zYZ6Sc05Er58fvd_QHIIu3INiWApn6GY=",
+                "ingredients": [
+                  "1 lb pizza dough",
+                  "1/2 cup tomato sauce",
+                  "2 cups shredded mozzarella cheese",
+                  "1/4 cup sliced pepperoni",
+                  "1/4 cup sliced black olives"
+                ],
+                "cooking_method": [
+                  "Preheat oven to 425°F.",
+                  "Roll out pizza dough on a floured surface to desired thickness.",
+                  "Spread tomato sauce over the dough, leaving a 1-inch border around the edges.",
+                  "Sprinkle shredded mozzarella cheese evenly over the sauce.",
+                  "Add pepperoni and black olives on top of the cheese.",
+                  "Bake for 12-15 minutes, until the crust is golden brown and the cheese is melted and bubbly."
+                ],
+                "rating": 4.8
+              }
+        ]
     },  
     {        
         "id": 2,    
@@ -13,7 +75,69 @@
         "chefImg": "https://purepng.com/public/uploads/large/purepng.com-female-chefcheftrained-professional-cookfood-preparationkitchenchefsexperiencedwomenfemale-1421526720006effzx.png",       
         "experience": "15 years",      
         "numRecipes": 300,   
-        "likes": { "facebook": 25000, "instagram": 15000, "twitter": 17000}    
+        "likes": { "facebook": 25000, "instagram": 15000, "twitter": 17000},
+        "recipes":  [
+            {
+                "name": "Beef Stroganoff",
+                "img": "https://media.istockphoto.com/id/523456979/photo/homemade-hearty-beef-stroganoff.jpg?s=612x612&w=0&k=20&c=FsTHhQSdD6bNfuiP5u5wXWy6_zmOP4UPgXR7RImOXyU=",
+                "ingredients": [
+                  "1 lb beef sirloin, sliced into thin strips",
+                  "1 onion, chopped",
+                  "2 cloves garlic, minced",
+                  "1 can (10.5 oz) condensed cream of mushroom soup",
+                  "1 cup beef broth"
+                ],
+                "cooking_method": [
+                  "In a large skillet, cook the beef over medium-high heat until browned.",
+                  "Add the onion and garlic and sauté for 3-4 minutes, until the onion is soft.",
+                  "Add the cream of mushroom soup, beef broth, salt, and pepper and stir to combine.",
+                  "Reduce heat to low and simmer for 10-15 minutes, until the sauce has thickened and the beef is tender.",
+                  "Serve over cooked egg noodles or rice."
+                ],
+                "rating": 4.3
+              },
+              
+              {
+                "name": "Taco Salad",
+                "img":"https://media.istockphoto.com/id/508341204/photo/taco-salad-in-a-tortilla-bowl.jpg?b=1&s=612x612&w=0&k=20&c=nCajGC7RcjRY6p7uU1-8oSpw-VDpkpxxy6Rt5gtD7p4=",
+                "ingredients": [
+                  "1 lb ground beef",
+                  "1 packet taco seasoning",
+                  "1 head lettuce, chopped",
+                  "1 tomato, chopped",
+                  "1 cup shredded cheddar cheese"
+                ],
+                "cooking_method": [
+                  "In a large skillet, brown the ground beef over medium-high heat.",
+                  "Add the taco seasoning and stir to combine.",
+                  "In a large bowl, combine the chopped lettuce, tomato, and shredded cheese.",
+                  "Add the cooked ground beef and stir to combine.",
+                  "Crush tortilla chips over the salad and serve."
+                ],
+                "rating": 4.1
+              },
+              
+              {
+                "name": "Baked Salmon",
+                "img":"https://media.istockphoto.com/id/184315175/photo/fillet-of-salmon-with-asparagus.jpg?s=612x612&w=0&k=20&c=iG6r3AnCJvmU3oqZCoiV2RfgtkjsIlP7FBZPNFBU2eM=",
+                "ingredients": [
+                  "4 salmon fillets",
+                  "1 lemon, sliced",
+                  "2 tablespoons butter, melted",
+                  "1 tablespoon honey",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": [
+                  "Preheat oven to 375°F.",
+                  "Place the salmon fillets in a baking dish and season with salt and pepper.",
+                  "In a small bowl, whisk together melted butter and honey.",
+                  "Brush the butter and honey mixture over the salmon fillets.",
+                  "Top each fillet with a slice of lemon.",
+                  "Bake for 12-15 minutes, until the salmon is cooked through."
+                ],
+                "rating": 4.6
+              }              
+        ]
     },  
     {       
         "id": 3,   
@@ -21,7 +145,71 @@
         "chefImg": "https://thumbs.dreamstime.com/b/female-chef-19271464.jpg",      
         "experience": "8 years",        
         "numRecipes": 150,       
-        "likes": { "facebook": 8000, "instagram": 27000, "twitter": 10000}
+        "likes": { "facebook": 8000, "instagram": 27000, "twitter": 10000},
+        "recipes":[
+            {
+                "name": "Pesto Pasta",
+                "img":"https://media.istockphoto.com/id/1045283212/photo/tasty-pasta-with-pesto-served-on-plate.jpg?s=612x612&w=0&k=20&c=eIQbBIM37oiPwmdbmWn11_W4nKlpEhz9ms2gYEBkBYs=",
+                "ingredients": [
+                  "1 pound pasta",
+                  "1/2 cup basil pesto",
+                  "1/4 cup grated Parmesan cheese",
+                  "1/4 cup pine nuts, toasted",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": [
+                  "Cook the pasta according to package instructions until al dente.",
+                  "Drain the pasta and return it to the pot.",
+                  "Add the basil pesto, Parmesan cheese, and pine nuts to the pot and stir to combine.",
+                  "Season with salt and pepper to taste.",
+                  "Serve hot."
+                ],
+                "rating": 4.5
+              },
+              
+              {
+                "name": "Chicken Fajitas",
+                "img":"https://media.istockphoto.com/id/1134749741/photo/fajitas-with-colored-pepper-and-onions.jpg?s=612x612&w=0&k=20&c=AiUyCoV1ETeEYF-NVxLzOKpLqOhj22jDZN3Phv1PZWk=",
+                "ingredients": [
+                  "1 pound boneless, skinless chicken breasts, sliced",
+                  "1 red bell pepper, sliced",
+                  "1 green bell pepper, sliced",
+                  "1 onion, sliced",
+                  "1 packet fajita seasoning"
+                ],
+                "cooking_method": [
+                  "In a large skillet, cook the chicken over medium-high heat until browned.",
+                  "Add the sliced peppers and onion to the skillet and cook until tender.",
+                  "Add the fajita seasoning and stir to combine.",
+                  "Reduce heat to low and simmer for 5-10 minutes, until the chicken is cooked through and the vegetables are tender.",
+                  "Serve with warm tortillas, shredded cheese, and sour cream."
+                ],
+                "rating": 4.2
+              },
+              
+              {
+                "name": "Spaghetti and Meatballs",
+                "img":"https://media.istockphoto.com/id/155429377/photo/spaghetti-and-meatballs.jpg?s=612x612&w=0&k=20&c=iCaG_HtWKAr7517m7rhzpnXvE2VS0c_K09bFk3R4o_M=",
+                "ingredients": [
+                  "1 pound spaghetti",
+                  "1 jar (24 oz) spaghetti sauce",
+                  "1 pound ground beef",
+                  "1/2 cup breadcrumbs",
+                  "1/4 cup grated Parmesan cheese"
+                ],
+                "cooking_method": [
+                  "Cook the spaghetti according to package instructions until al dente.",
+                  "In a large bowl, mix together the ground beef, breadcrumbs, Parmesan cheese, salt, and pepper.",
+                  "Form the mixture into meatballs about 1 inch in diameter.",
+                  "In a large skillet, cook the meatballs over medium-high heat until browned on all sides.",
+                  "Add the spaghetti sauce to the skillet and stir to combine.",
+                  "Reduce heat to low and simmer for 10-15 minutes, until the meatballs are cooked through.",
+                  "Serve over the cooked spaghetti."
+                ],
+                "rating": 4.4
+              }
+              
+        ]
     },    
     {  
         "id": 4,   
@@ -29,7 +217,69 @@
         "chefImg": "https://i.pinimg.com/originals/d3/c4/2c/d3c42c4d91c6d24b89bf8ab2175e9f75.png",      
         "experience": "20 years",    
         "numRecipes": 400,    
-        "likes": { "facebook": 30000, "instagram": 5000, "twitter": 4000}
+        "likes": { "facebook": 30000, "instagram": 5000, "twitter": 4000},
+        "recipes":  [
+            {
+                "name": "Beef Stroganoff",
+                "img": "https://media.istockphoto.com/id/523456979/photo/homemade-hearty-beef-stroganoff.jpg?s=612x612&w=0&k=20&c=FsTHhQSdD6bNfuiP5u5wXWy6_zmOP4UPgXR7RImOXyU=",
+                "ingredients": [
+                  "1 lb beef sirloin, sliced into thin strips",
+                  "1 onion, chopped",
+                  "2 cloves garlic, minced",
+                  "1 can (10.5 oz) condensed cream of mushroom soup",
+                  "1 cup beef broth"
+                ],
+                "cooking_method": [
+                  "In a large skillet, cook the beef over medium-high heat until browned.",
+                  "Add the onion and garlic and sauté for 3-4 minutes, until the onion is soft.",
+                  "Add the cream of mushroom soup, beef broth, salt, and pepper and stir to combine.",
+                  "Reduce heat to low and simmer for 10-15 minutes, until the sauce has thickened and the beef is tender.",
+                  "Serve over cooked egg noodles or rice."
+                ],
+                "rating": 4.3
+              },
+              
+              {
+                "name": "Taco Salad",
+                "img":"https://media.istockphoto.com/id/508341204/photo/taco-salad-in-a-tortilla-bowl.jpg?b=1&s=612x612&w=0&k=20&c=nCajGC7RcjRY6p7uU1-8oSpw-VDpkpxxy6Rt5gtD7p4=",
+                "ingredients": [
+                  "1 lb ground beef",
+                  "1 packet taco seasoning",
+                  "1 head lettuce, chopped",
+                  "1 tomato, chopped",
+                  "1 cup shredded cheddar cheese"
+                ],
+                "cooking_method": [
+                  "In a large skillet, brown the ground beef over medium-high heat.",
+                  "Add the taco seasoning and stir to combine.",
+                  "In a large bowl, combine the chopped lettuce, tomato, and shredded cheese.",
+                  "Add the cooked ground beef and stir to combine.",
+                  "Crush tortilla chips over the salad and serve."
+                ],
+                "rating": 4.1
+              },
+              
+              {
+                "name": "Baked Salmon",
+                "img":"https://media.istockphoto.com/id/184315175/photo/fillet-of-salmon-with-asparagus.jpg?s=612x612&w=0&k=20&c=iG6r3AnCJvmU3oqZCoiV2RfgtkjsIlP7FBZPNFBU2eM=",
+                "ingredients": [
+                  "4 salmon fillets",
+                  "1 lemon, sliced",
+                  "2 tablespoons butter, melted",
+                  "1 tablespoon honey",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": [
+                  "Preheat oven to 375°F.",
+                  "Place the salmon fillets in a baking dish and season with salt and pepper.",
+                  "In a small bowl, whisk together melted butter and honey.",
+                  "Brush the butter and honey mixture over the salmon fillets.",
+                  "Top each fillet with a slice of lemon.",
+                  "Bake for 12-15 minutes, until the salmon is cooked through."
+                ],
+                "rating": 4.6
+              }              
+        ]
     },  
     {   
         "id": 5,    
@@ -37,7 +287,69 @@
         "chefImg": "https://freedesignfile.com/upload/2017/09/Beautiful-female-chef-holding-a-whisk-Stock-Photo-02.jpg",       
         "experience": "5 years",     
         "numRecipes": 100,     
-        "likes": { "facebook": 5000, "instagram": 25000, "twitter": 3000}
+        "likes": { "facebook": 5000, "instagram": 25000, "twitter": 3000},
+        "recipes": [
+            {
+                "name": "Spaghetti Bolognese",
+                "img": "https://thumbs.dreamstime.com/b/spaghetti-bolognese-white-14995278.jpg",
+                "ingredients": [
+                  "1 lb ground beef",
+                  "1 onion, diced",
+                  "2 cloves garlic, minced",
+                  "1 can (28 oz) crushed tomatoes",
+                  "1 tsp dried oregano"
+                ],
+                "cooking_method": [
+                  "In a large skillet, brown the ground beef over medium-high heat.",
+                  "Add the onion and garlic and sauté for 3-4 minutes, until the onion is translucent.",
+                  "Add the crushed tomatoes, oregano, salt, and pepper and stir to combine.",
+                  "Reduce heat to low and simmer for 20-30 minutes, until the sauce has thickened.",
+                  "Serve over cooked spaghetti."
+                ],
+                "rating": 4.5
+              },
+              
+              {
+                "name": "Chicken Stir-Fry",
+                "img": "https://media.istockphoto.com/id/1188850044/photo/stir-fry-with-chicken-mushrooms-broccoli-and-peppers-chinese-food.jpg?s=612x612&w=0&k=20&c=3CyKm21PIH0Ee4vVm08UPgbBuFgYte3xgRE6lqZSJaU=",
+                "ingredients": [
+                  "1 lb boneless, skinless chicken breast, sliced",
+                  "1 red bell pepper, sliced",
+                  "1 yellow bell pepper, sliced",
+                  "1 onion, sliced",
+                  "1 cup broccoli florets"
+                ],
+                "cooking_method": [
+                  "In a wok or large skillet, heat oil over high heat.",
+                  "Add the chicken and stir-fry for 2-3 minutes, until browned.",
+                  "Add the peppers, onion, and broccoli and stir-fry for another 3-4 minutes, until the vegetables are tender-crisp.",
+                  "Add the soy sauce and stir to combine.",
+                  "Serve over cooked rice."
+                ],
+                "rating": 4.0
+              },
+              
+              {
+                "name": "Homemade Pizza",
+                "img":"https://media.istockphoto.com/id/184969517/photo/marinara-pizza.jpg?s=612x612&w=0&k=20&c=5l07HQR40k9zYZ6Sc05Er58fvd_QHIIu3INiWApn6GY=",
+                "ingredients": [
+                  "1 lb pizza dough",
+                  "1/2 cup tomato sauce",
+                  "2 cups shredded mozzarella cheese",
+                  "1/4 cup sliced pepperoni",
+                  "1/4 cup sliced black olives"
+                ],
+                "cooking_method": [
+                  "Preheat oven to 425°F.",
+                  "Roll out pizza dough on a floured surface to desired thickness.",
+                  "Spread tomato sauce over the dough, leaving a 1-inch border around the edges.",
+                  "Sprinkle shredded mozzarella cheese evenly over the sauce.",
+                  "Add pepperoni and black olives on top of the cheese.",
+                  "Bake for 12-15 minutes, until the crust is golden brown and the cheese is melted and bubbly."
+                ],
+                "rating": 4.8
+              }
+        ]
     },    
     {   
         "id": 6,     
@@ -45,6 +357,70 @@
         "chefImg": "https://img.freepik.com/premium-photo/positive-professional-happy-man-chef-showing-tasty-ok-sign-isolated-white-background_361425-6568.jpg?w=2000",     
         "experience": "12 years",     
         "numRecipes": 250,    
-        "likes": { "facebook": 18000, "instagram": 25000, "twitter": 15000}
+        "likes": { "facebook": 18000, "instagram": 25000, "twitter": 15000},
+        "recipes":[
+            {
+                "name": "Pesto Pasta",
+                "img":"https://media.istockphoto.com/id/1045283212/photo/tasty-pasta-with-pesto-served-on-plate.jpg?s=612x612&w=0&k=20&c=eIQbBIM37oiPwmdbmWn11_W4nKlpEhz9ms2gYEBkBYs=",
+                "ingredients": [
+                  "1 pound pasta",
+                  "1/2 cup basil pesto",
+                  "1/4 cup grated Parmesan cheese",
+                  "1/4 cup pine nuts, toasted",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": [
+                  "Cook the pasta according to package instructions until al dente.",
+                  "Drain the pasta and return it to the pot.",
+                  "Add the basil pesto, Parmesan cheese, and pine nuts to the pot and stir to combine.",
+                  "Season with salt and pepper to taste.",
+                  "Serve hot."
+                ],
+                "rating": 4.5
+              },
+              
+              {
+                "name": "Chicken Fajitas",
+                "img":"https://media.istockphoto.com/id/1134749741/photo/fajitas-with-colored-pepper-and-onions.jpg?s=612x612&w=0&k=20&c=AiUyCoV1ETeEYF-NVxLzOKpLqOhj22jDZN3Phv1PZWk=",
+                "ingredients": [
+                  "1 pound boneless, skinless chicken breasts, sliced",
+                  "1 red bell pepper, sliced",
+                  "1 green bell pepper, sliced",
+                  "1 onion, sliced",
+                  "1 packet fajita seasoning"
+                ],
+                "cooking_method": [
+                  "In a large skillet, cook the chicken over medium-high heat until browned.",
+                  "Add the sliced peppers and onion to the skillet and cook until tender.",
+                  "Add the fajita seasoning and stir to combine.",
+                  "Reduce heat to low and simmer for 5-10 minutes, until the chicken is cooked through and the vegetables are tender.",
+                  "Serve with warm tortillas, shredded cheese, and sour cream."
+                ],
+                "rating": 4.2
+              },
+              
+              {
+                "name": "Spaghetti and Meatballs",
+                "img":"https://media.istockphoto.com/id/155429377/photo/spaghetti-and-meatballs.jpg?s=612x612&w=0&k=20&c=iCaG_HtWKAr7517m7rhzpnXvE2VS0c_K09bFk3R4o_M=",
+                "ingredients": [
+                  "1 pound spaghetti",
+                  "1 jar (24 oz) spaghetti sauce",
+                  "1 pound ground beef",
+                  "1/2 cup breadcrumbs",
+                  "1/4 cup grated Parmesan cheese"
+                ],
+                "cooking_method": [
+                  "Cook the spaghetti according to package instructions until al dente.",
+                  "In a large bowl, mix together the ground beef, breadcrumbs, Parmesan cheese, salt, and pepper.",
+                  "Form the mixture into meatballs about 1 inch in diameter.",
+                  "In a large skillet, cook the meatballs over medium-high heat until browned on all sides.",
+                  "Add the spaghetti sauce to the skillet and stir to combine.",
+                  "Reduce heat to low and simmer for 10-15 minutes, until the meatballs are cooked through.",
+                  "Serve over the cooked spaghetti."
+                ],
+                "rating": 4.4
+              }
+              
+        ]
     }
 ]

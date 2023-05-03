@@ -14,6 +14,12 @@ app.get('/chefs', (req, res) =>{
     res.send(chefs)
 })
 
+app.get('/chefs/:id', (req, res) => {
+    const id = parseInt(req.params.id)
+    const viewRecipes = chefs.find(c => parseInt(c.id) === id) 
+    res.send(viewRecipes)
+})
+
 app.listen(port, () => {
   console.log(`Cheflo ${port}`)
 })
