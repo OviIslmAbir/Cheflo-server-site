@@ -11,7 +11,7 @@
             {
                 "recipeId":1,
                 "name": "Spaghetti Bolognese",
-                "img": "https://thumbs.dreamstime.com/b/spaghetti-bolognese-white-14995278.jpg",
+                "img": "https://media.istockphoto.com/id/652225084/photo/spaghetti-bolognese-on-a-white-plate.jpg?s=612x612&w=0&k=20&c=taRaaNAkF_IZYccGTfM3rCoiMLiUBCA2Sc6CHB4Yb2k=",
                 "ingredients": [
                   "1 lb ground beef",
                   "1 onion, diced",
@@ -151,7 +151,7 @@
         "id": 3,   
         "name": "Chloe Decker",        
         "description": "Chloe Decker was an American chef, author, and television personality. He was known for his love of food and travel, and his popular television shows, such as 'No Reservations' and 'Parts Unknown', in which he explored different cultures and cuisines around the world.",
-        "chefImg": "https://thumbs.dreamstime.com/b/female-chef-19271464.jpg",      
+        "chefImg": "https://www.sogoodmagazine.com/wp-content/uploads/2013/06/Female-Chefs-Kitchen-Still-Feels-Like-Man-World.jpg",      
         "experience": "8 years",        
         "numRecipes": 150,       
         "likes": { "facebook": 8000, "instagram": 27000, "twitter": 10000},
@@ -309,7 +309,7 @@
             {
                 "recipeId":1,
                 "name": "Spaghetti Bolognese",
-                "img": "https://thumbs.dreamstime.com/b/spaghetti-bolognese-white-14995278.jpg",
+                "img": "https://media.istockphoto.com/id/652225084/photo/spaghetti-bolognese-on-a-white-plate.jpg?s=612x612&w=0&k=20&c=taRaaNAkF_IZYccGTfM3rCoiMLiUBCA2Sc6CHB4Yb2k=",
                 "ingredients": [
                   "1 lb ground beef",
                   "1 onion, diced",
